@@ -1,0 +1,6 @@
+fiftyone
+opencv-python-headless
+matplotlib
+numpy
+pandas
+notebook
